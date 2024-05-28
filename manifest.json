@@ -2,7 +2,7 @@
     "name": "Lab8-Starter",
     "short_name": "david",
     "description": "Recipes for Thanksgiving",
-    "start_url": "http://127.0.0.1:5500/index.html",
+    "start_url": "https://minidawie.github.io/Lab8-Starter/",
     "display": "standalone",
     "background_color": "#a668c4",
     "theme_color": "#65d4e6",
